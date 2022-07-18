@@ -11,5 +11,5 @@ def sum():
 def avg():
     return sum/num_of_numbers
 
-print("the sumation is", sum())
-print("the avgerage is", avg())
+print("the summation  is", sum())
+print("the average  is", avg())
